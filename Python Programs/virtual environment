@@ -1,0 +1,31 @@
+   1 Set-Location -literalPath 'E:\Shreya\Diploma\Self Learning\Python\Virtual Environment'
+   2 virtualenv Shreya
+   3 cls
+   4 .\Shreya\Scripts\activate
+   5 python
+   6 deactivate
+   7 python
+   8 .\Shreya\Scripts\activate
+   9 python
+  10 pip install pandas
+  11 cls
+  12 deactivate
+  13 .\Shreya\Scripts\activate
+  14 pip uninstall pandas
+  15 deactivate
+  16 python
+  17 cls
+  18 .\Shreya\Scripts\activate
+  19 python
+  20 pip install sklearn
+  21 cls
+  22 pip freeze > requirements.txt
+  23 pip install -r .\requirements.txt
+  24 cls
+  25 deactivate
+  26 pip freeze > requ.txt
+  30 virtualenv --system-site-packages Shreya2
+  31 cls
+  32 .\Shreya2\Scripts\activate
+  33 python
+  34 deactivate

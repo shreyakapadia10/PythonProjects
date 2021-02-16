@@ -1,0 +1,4 @@
+This file is opened in r+ mode.
+It is created using Python.
+
+r+ will throw error if the file doesn't exist

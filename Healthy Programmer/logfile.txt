@@ -1,0 +1,11 @@
+[2021-02-14 16:49:29.023397] - Eyes Exercise Done
+[2021-02-14 17:26:22.447406] - Eyes Exercise Done 
+[2021-02-14 17:26:28.231823] - Physical Exercise Done 
+[2021-02-14 17:26:37.729261] - Drank Water 
+[2021-02-15 19:39:31.327875] - Eyes Exercise Done 
+[2021-02-15 19:39:37.392834] - Drank Water 
+[2021-02-15 19:39:43.190588] - Physical Exercise Done 
+[2021-02-15 19:40:06.061914] - Eyes Exercise Done 
+[2021-02-15 19:40:22.308800] - Drank Water 
+[2021-02-15 19:40:37.137927] - Physical Exercise Done 
+[2021-02-15 19:40:40.155302] - Eyes Exercise Done 
