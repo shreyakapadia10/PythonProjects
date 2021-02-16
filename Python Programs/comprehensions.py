@@ -1,8 +1,8 @@
 """
-    1. List Comprehension
-    2. Dictionary Comprehension
-    3. Set Comprehension
-    4. Dictionary Comprehension
+1. List Comprehension
+2. Dictionary Comprehension
+3. Set Comprehension
+4. Dictionary Comprehension
 """
 
 # Without List comprehension
