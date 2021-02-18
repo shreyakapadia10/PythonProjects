@@ -1,3 +1,11 @@
+""":
+    Take path, file name and file format in function,
+    capitalize each file name except for the one's provided in the file_name given as
+    second argument
+    take file format as third argument e.g. .jpg
+    All the files ending with given file format give them file name as 1,2,3,...
+"""
+
 import os
 
 
