@@ -1,0 +1,6 @@
+setup.py
+shreya/__init__.py
+shreya.egg-info/PKG-INFO
+shreya.egg-info/SOURCES.txt
+shreya.egg-info/dependency_links.txt
+shreya.egg-info/top_level.txt

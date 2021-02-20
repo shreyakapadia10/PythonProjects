@@ -17,11 +17,14 @@ if __name__ == '__main__':
     news = response.text
     json_data = json.loads(news)
 
+    speak("Today's News: ")
     for i in range(1, 11):
         speak(f"The {num2words(i, ordinal='ordinal_num')} "
               f"News is from the source: {json_data['articles'][i]['source']['name']}"
               f"The News Title is: {json_data['articles'][i]['title']}"
-              f"The News Description is: {json_data['articles'][i]['description']}"
+              # f"The News Description is: {json_data['articles'][i]['description']}"
               f"You can read entire news from URL printed in console")
 
-        print(f"You can read entire news from URL: {json_data['articles'][i]['url']}")
+        print(f"You can read entire {num2words(i, ordinal='ordinal_num')} news from URL: {json_data['articles'][i]['url']}")
+
+    speak("Have a nice day!")
