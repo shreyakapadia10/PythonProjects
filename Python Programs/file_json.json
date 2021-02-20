@@ -1,0 +1,16 @@
+{
+  "family_details": [
+    {
+      "name": "Shreya",
+      "family_members": ["Shreya", "Shivani", "Harshil", "Jyoti", "Dipak"],
+      "age": [20, 24, 18, 53, 55],
+      "hasUncle": false
+    },
+    {
+      "name": "Chaitrali",
+      "family_members": ["Chaitrali", "Kinjal", "Neela", "Anil"],
+      "age": [28, 35, 54, 57],
+      "hasUncle": true
+    }
+  ]
+}
