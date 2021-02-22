@@ -11,6 +11,7 @@ print("Using lambda function: ", summation(2, 3))
 def acc_second_sort(l):
     return l[1]
 
+
 # It will sort according to second element of list of list
 lst = [[3, 23], [20, 45], [10, 1]]
 lst.sort(key=acc_second_sort)
